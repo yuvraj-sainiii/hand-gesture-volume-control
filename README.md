@@ -54,3 +54,14 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yuvraj-sainiii/hand-gesture-volume-control.git
+```
+## 🎥 Demo
+
+The project detects the hand in real time using the webcam and controls the Windows system volume based on the distance between the thumb and index finger.
+
+### Volume Control
+
+- 🤏 Fingers close → Volume decreases
+- 🤌 Fingers apart → Volume increases
+- ✋ No hand detected → Volume control stops
+
