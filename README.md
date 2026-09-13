@@ -59,6 +59,8 @@ git clone https://github.com/yuvraj-sainiii/hand-gesture-volume-control.git
 
 The project detects the hand in real time using the webcam and controls the Windows system volume based on the distance between the thumb and index finger.
 
+[▶️ Watch the Hand Gesture Volume Control Demo](hand_gesture_volume_demo.mp4)
+
 ### Volume Control
 
 - 🤏 Fingers close → Volume decreases
