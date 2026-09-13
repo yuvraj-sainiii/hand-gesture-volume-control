@@ -1,4 +1,4 @@
-# Hand Gesture Volume Control 🎚️✋
+# Hand Gesture Volume Control 
 
 A real-time hand gesture based volume control system built using **Java and OpenCV**.
 
@@ -6,13 +6,13 @@ The application uses the distance between the **thumb and index finger** to cont
 
 ## ✨ Features
 
-- 📷 Real-time webcam hand detection
-- ✋ Thumb and index fingertip detection
-- 📏 Distance-based volume calculation
-- 🔊 Controls actual Windows system volume
-- 🎯 Volume mapped from 0% to 100%
-- 🖥️ Built with Java and OpenCV
-- ⚡ Real-time processing with smooth volume changes
+-  Real-time webcam hand detection
+-  Thumb and index fingertip detection
+-  Distance-based volume calculation
+-  Controls actual Windows system volume
+-  Volume mapped from 0% to 100%
+-  Built with Java and OpenCV
+-  Real-time processing with smooth volume changes
 
 ## 🛠️ Technologies Used
 
@@ -22,7 +22,7 @@ The application uses the distance between the **thumb and index finger** to cont
 - Maven
 - Windows PowerShell
 
-## ⚙️ How It Works
+##  How It Works
 
 1. The webcam captures the video.
 2. OpenCV detects the hand using skin-color segmentation.
@@ -39,7 +39,7 @@ The application uses the distance between the **thumb and index finger** to cont
 | ~150 px | 50% |
 | ~200 px | 100% |
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 
